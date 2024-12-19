@@ -1,0 +1,122 @@
+{
+    "obce": [
+        {
+            "nazev": "Vanovice okres Blansko",
+            "motivy": [
+                {
+                    "nazev": "Z věže chrámu",
+                    "pohlednice": [
+                        {
+                            "nazev": "Východ",
+                            "front": "./pictures/Vanovice_z_veze_vychod_5167_lic.jpg",
+                            "back": "./pictures/Vanovice_z_veze_vychod_5167_rub.jpg",
+                            "info": "./pictures/Vanovice_z_veze_vychod_5167.txt" 
+                        },
+                        {
+                            "nazev": "Sever",
+                            "front": "./pictures/Vanovice_z_veze_sever_5169_lic.jpg",
+                            "back": "./pictures/Vanovice_z_veze_sever_5169_rub.jpg",
+                            "info": "./pictures/Vanovice_z_veze_sever_5169.txt" 
+                        },
+                        {
+                            "nazev": "Západ",
+                            "front": "./pictures/Vanovice_z_veze_zapad_5170_lic.jpg",
+                            "back": "./pictures/Vanovice_z_veze_zapad_5170_rub.jpg",
+                            "info": "./pictures/Vanovice_z_veze_zapad_5170.txt" 
+                        }
+                    ]
+                },
+                {
+                    "nazev": "Chrám",
+                    "pohlednice": [
+                        {
+                            "nazev": "Pohlednice 3",
+                            "front": "front3.jpg",
+                            "back": "back3.html",
+                            "info": "info3.html"
+                        }
+                    ]
+                },
+                {
+                    "nazev": "Z věže chrámu",
+                    "pohlednice": [
+                        {
+                            "nazev": "Pohlednice 3",
+                            "front": "front3.jpg",
+                            "back": "back3.html",
+                            "info": "info3.html"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "nazev": "Kniníce okres Blansko",
+            "motivy": [
+                {
+                    "nazev": "Vícezáběrová",
+                    "pohlednice": [
+                        {
+                            "nazev": "Pohlednice 1",
+                            "front": "./pictures/stara-cervena-voda-altrotwasser-vidnava-hospoda-posta-obchod-202520242.jpeg",
+                            "back": "./pictures/stara-cervena-voda-altrotwasser-vidnava-hospoda-posta-obchod-202520266.jpeg",
+                            "info": "./pictures/stara-cervena-voda-altrotwasser-vidnava-hospoda-posta-obchod.txt", 
+                            "dalsipath": ""
+                        },
+                        {
+                            "nazev": "Pohlednice 2",
+                            "front": "./pictures/stara-cervena-voda-alt-rothwasser-1913-jesenik-hostinec-5192-98700645.jpeg",
+                            "back": "./pictures/stara-cervena-voda-alt-rothwasser-1913-jesenik-hostinec-5192-98700646.jpeg",
+                            "info": "./pictures/stara-cervena-voda-alt-rothwasser-1913-jesenik-hostinec-5192-98700646.txt"
+                        }
+                    ]
+                },
+                {
+                    "nazev": "Chrám",
+                    "pohlednice": [
+                        {
+                            "nazev": "Pohlednice 3",
+                            "front": "front3.jpg",
+                            "back": "back3.html",
+                            "info": "info3.html"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "nazev": "Stará Červená Voda - Alt RothWasser",
+            "motivy": [
+                {
+                    "nazev": "Vícezáběrová",
+                    "pohlednice": [
+                        {
+                            "nazev": "Pohlednice 1",
+                            "front": "pictures/stara-cervena-voda-altrotwasser-vidnava-hospoda-posta-obchod-202520242.jpeg",
+                            "back": "back1.html",
+                            "info": "info1.html"
+                        },
+                        {
+                            "nazev": "Pohlednice 2",
+                            "front": "pictures/stara-cervena-voda-alt-rothwasser-celkovy-pohl-94116340.jpeg",
+                            "back": "back2.html",
+                            "info": "info2.html"
+                        }
+                    ]
+                },
+                {
+                    "nazev": "Pražský hrad",
+                    "pohlednice": [
+                        {
+                            "nazev": "Pohlednice 3",
+                            "front": "front3.jpg",
+                            "back": "back3.html",
+                            "info": "info3.html"
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ]
+}
